@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a32f23fe-820f-114d-aa40-e174e54564aa
 ---
@@ -29,7 +31,7 @@ Introduction
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2: Classic Poetry
 {{< tdclose >}}
 {{< tdopen >}}
@@ -50,7 +52,7 @@ Begin discussion of poetry unit
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3: Poetry and Classic Stories
 {{< tdclose >}}
 {{< tdopen >}}
@@ -65,7 +67,7 @@ Discussion and presentation of in-class group work on poems
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4: Introduction to Drama: _The Story of the Western Wing_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +82,7 @@ Library workshop
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5: Drama (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -95,7 +97,7 @@ Acting exercises
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6: Introduction to the Novel: _Three Kingdoms_ 
 {{< tdclose >}}
 {{< tdopen >}}
@@ -110,7 +112,7 @@ Lecture
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7: Introduction to the Novel: _Three Kingdoms_ (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -125,7 +127,7 @@ Field trip to visit the Chinese house at the Peabody Essex Museum in Salem, MA.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8: Novel (cont.): _Outlaws of the Marsh_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -144,7 +146,7 @@ Discussion
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9: _Monkey/Journey to the West_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -165,7 +167,7 @@ Discuss Final Project ideas
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10: _Monkey/Journey to the West_ (cont)
 {{< tdclose >}}
 {{< tdopen >}}
@@ -180,7 +182,7 @@ Lecture
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11: _Dream of the Red Chamber_
 {{< tdclose >}}
 {{< tdopen >}}
@@ -204,7 +206,7 @@ Discussion of chapters 94, 98, 116, 119, 120
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13: Begin presentations
 {{< tdclose >}}
 {{< tdopen >}}

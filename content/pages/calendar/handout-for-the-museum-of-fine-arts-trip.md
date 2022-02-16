@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: a32f23fe-820f-114d-aa40-e174e54564aa
 title: Handout for the Museum of Fine Arts Trip
 uid: 0bedded8-0142-7b44-c7b3-f6dee18ec824
