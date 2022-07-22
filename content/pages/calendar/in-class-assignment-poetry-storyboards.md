@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section presents an exercise to visualize a set of Chinese poems.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: a32f23fe-820f-114d-aa40-e174e54564aa
 title: 'In-class Assignment: Poetry Storyboards'
 uid: 19e0292d-a742-bac2-eb5d-a748c0a67a86
